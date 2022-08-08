@@ -1,2 +1,2 @@
 # CornFudge
-cornfudge.com
+<cornfudge.com>
